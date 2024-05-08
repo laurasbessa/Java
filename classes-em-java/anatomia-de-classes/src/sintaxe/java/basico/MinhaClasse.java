@@ -1,3 +1,4 @@
+package sintaxe.java.basico;
 public class MinhaClasse {
     
 public static void main(String[] args) {
